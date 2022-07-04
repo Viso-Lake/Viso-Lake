@@ -14,6 +14,8 @@
 [<img align="left" width="25px" src="https://cdn3.iconfinder.com/data/icons/social-icons-33/512/Telegram-256.png"/>][Telegram]
 [<img align="left" width="27px" src="https://cdn0.iconfinder.com/data/icons/free-social-media-set/24/discord-256.png"/>][Discord]
 
+</br>
+
 ### Technology stack
 
 <!-- <img align="right" alt="GIF" src="" width="500" height="320" /> -->
