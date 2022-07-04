@@ -1,9 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%234300F7&size=25&height=55&lines=Hi+there%2C+I'm+Fara;Or...;Coffe-Lake)](https://git.io/typing-svg)
-#####
 <img align="right" alt="GIF" src="https://github.com/Coffe-Lake/Coffe-Lake/blob/master/api.gif?raw=true"/>
 
-
-## Hi there 👋 I'm a Fara - Python/Go Backend developer
+##
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%234300F7&size=25&height=55&lines=Hi+there%2C+I'm+Fara;Or...;Coffe-Lake)](https://git.io/typing-svg)
 
 [![Codewars badge](https://www.codewars.com/users/Coffe-Lake/badges/large)](https://www.codewars.com/users/Coffe-Lake)
 
