@@ -1,3 +1,4 @@
+<img align="right" alt="GIF" src="https://github.com/Coffe-Lake/Coffe-Lake/blob/master/api.gif?raw=true" width="500"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%234300F7&size=25&height=55&lines=Hi+there%2C+I'm+Fara;Or...;Coffe-Lake)](https://git.io/typing-svg)
 
@@ -14,7 +15,7 @@
 [<img align="left" width="25px" src="https://cdn3.iconfinder.com/data/icons/social-icons-33/512/Telegram-256.png"/>][Telegram]
 [<img align="left" width="27px" src="https://cdn0.iconfinder.com/data/icons/free-social-media-set/24/discord-256.png"/>][Discord]
 
-</br>
+<br />
 
 ### Technology stack
 
