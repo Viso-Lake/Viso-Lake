@@ -1,23 +1,20 @@
-## Hi there 👋 I'm a Fara - Backend developer
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%234300F7&size=25&height=55&lines=Hi+there%2C+I'm+Fara;Or...;Coffe-Lake)](https://git.io/typing-svg)
 
 
-<a href="https://t.me/Felkot">
-  <img align="left" alt="Telegram" width="22px" src="https://camo.githubusercontent.com/5c1975da7d9ab735ceb71c57b6c7e48ff3e08ca4/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f74656c656772616d2e737667">
-</a>
-<a href="https://discord.gg/SHRIKE#6356">
-  <img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://vk.com/coffe_lake">
-  <img align="left" alt="VK" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-flat-7/64/Social-media_VK-256.png" />
-</a>
-
-<br>
+## Hi there 👋 I'm a Fara - Python/Go Backend developer
 
 [![Codewars badge](https://www.codewars.com/users/Coffe-Lake/badges/large)](https://www.codewars.com/users/Coffe-Lake)
 
-</br>
+- ⚡ I am currently learning and developing in Python and Golang
 
-## Technology stack
+
+### If you decide to contact me:
+[<img align="left" width="25px" src="https://cdn4.iconfinder.com/data/icons/social-media-flat-7/64/Social-media_VK-256.png"/>][Vk]
+[<img align="left" width="25px" src="https://cdn3.iconfinder.com/data/icons/social-icons-33/512/Telegram-256.png"/>][Telegram]
+[<img align="left" width="27px" src="https://cdn0.iconfinder.com/data/icons/free-social-media-set/24/discord-256.png"/>][Discord]
+
+### Technology stack
 
 <!-- <img align="right" alt="GIF" src="" width="500" height="320" /> -->
 
@@ -59,7 +56,7 @@
 
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![btw i use Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
@@ -72,4 +69,10 @@
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Coffe-lake)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Coffe-Lake&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+
+
+[Vk]: https://vk.com/coffe_lake
+[Telegram]: https://t.me/Felkot
+[Discord]:  https://discordapp.com/users/SHRIKE#6356
