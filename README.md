@@ -1,5 +1,5 @@
 <div> 
-  <img align="right" alt="GIF" src="https://github.com/Viso_Lake/Viso-Lake/blob/master/api.gif?raw=true"/>
+  <img align="right" alt="GIF" src="https://github.com/Viso-Lake/Viso-Lake/blob/master/api.gif?raw=true"/>
 </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%234300F7&size=25&height=55&lines=Hi+there%2C+I'm+Fara;Or...;Fara)](https://git.io/typing-svg)
