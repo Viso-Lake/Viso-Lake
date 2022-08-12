@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%234300F7&size=25&height=55&lines=Hi+there%2C+I'm+Fara;Or...;Fara)](https://git.io/typing-svg)
 
-[![Codewars badge](https://www.codewars.com/users/Viso_Lake/badges/large)](https://www.codewars.com/users/Viso_Lake)
+[![Codewars badge](https://www.codewars.com/users/Viso-Lake/badges/large)](https://www.codewars.com/users/Viso-Lake)
 
 - ⚡ I am currently learning and developing in Python and Golang
 
