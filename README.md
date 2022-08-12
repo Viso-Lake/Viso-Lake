@@ -1,10 +1,10 @@
 <div> 
-  <img align="right" alt="GIF" src="https://github.com/Coffe-Lake/Coffe-Lake/blob/master/api.gif?raw=true"/>
+  <img align="right" alt="GIF" src="https://github.com/Viso_Lake/Viso-Lake/blob/master/api.gif?raw=true"/>
 </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%234300F7&size=25&height=55&lines=Hi+there%2C+I'm+Fara;Or...;Fara)](https://git.io/typing-svg)
 
-[![Codewars badge](https://www.codewars.com/users/Coffe-Lake/badges/large)](https://www.codewars.com/users/Coffe-Lake)
+[![Codewars badge](https://www.codewars.com/users/Viso_Lake/badges/large)](https://www.codewars.com/users/Viso_Lake)
 
 - ⚡ I am currently learning and developing in Python and Golang
 
@@ -71,10 +71,10 @@
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Coffe-Lake&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Viso-Lake&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
 
-[Vk]: https://vk.com/coffe_lake
-[Telegram]: https://t.me/Felkot
+[Vk]: https://vk.com/Viso_Lake
+[Telegram]: https://t.me/Viso_Lake
 [Discord]:  https://discordapp.com/users/SHRIKE#6356
