@@ -76,5 +76,5 @@
 
 
 [Vk]: https://vk.com/Viso_Lake
-[Telegram]: https://t.me/Viso_Lake
+[Telegram]: https://t.me/dev_fara
 [Discord]:  https://discordapp.com/users/SHRIKE#6356
