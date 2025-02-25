@@ -40,4 +40,6 @@
 
 > "Проблемы — это вызовы, которые мы решаем через архитектуру и код. Чем сложнее задача, тем выше уровень мастерства, необходимый для её решения."
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Viso-Lake&theme=radical)](https://git.io/streak-stats)
+![Viso-Lake's Stats](https://github-readme-stats.vercel.app/api?username=Viso-Lake&theme=radical&show_icons=true&hide_border=false&count_private=true)
+![Viso-Lake's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Viso-Lake&theme=radical&show_icons=true&hide_border=false&layout=compact)
+![Viso-Lake's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Visa-Lake&theme=radical&hide_border=false)
