@@ -13,7 +13,7 @@
 
 ### 🛠 Backend
 - **Языки программирования:** `Golang`, `Python`
-- **Фреймворки:** `Gin`, `Fiber`, `Django`, `FastAPI`
+- **Фреймворки:** `Chi`, `Gin`, `Fiber`, `Django`, `FastAPI`
 - **Базы данных:** `PostgreSQL`, `MySQL`, `MongoDB`, `Redis`
 - **Месседж-брокеры:** `Apache Kafka`, `RabbitMQ`, `Nats`
 - **API-решения:** `REST`, `gRPC`
