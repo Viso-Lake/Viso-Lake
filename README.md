@@ -36,6 +36,7 @@
 - 🔗 **GitHub:** [Viso-Lake](https://github.com/Viso-Lake)
 - 🌐 **Личный сайт:** [FaraSite](https://fara.rushcode.ru)
 - 💼 **LinkedIn:** [FaraLink](https://www.linkedin.com/in/devfara/)
+- 💼 **Head Hunter:** [Fara Head Hunter](https://hh.ru/applicant/resumes/view?resume=dd420821ff0c4e7d530039ed1f644e354b3733)
 - ✉ **Email:** felixkot00@gmail.com
 
 > "Проблемы — это вызовы, которые мы решаем через архитектуру и код. Чем сложнее задача, тем выше уровень мастерства, необходимый для её решения."
