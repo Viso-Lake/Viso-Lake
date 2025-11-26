@@ -5,7 +5,7 @@
 🔹 **Опыт:** 7+ лет опыта в разработке backend-архитектур, микросервисных систем и DevOps.  
 🔹 **Технологический стек:** Golang, Python, PostgreSQL, Kafka, Docker, Kubernetes, Linux.  
 🔹 **Архитектура:** Микросервисы, API Gateway, CI/CD, Monitoring, Security.  
-🔹 **Роли:** Backend Developer, DevOps, Tech Lead.  
+🔹 **Роли:** Senior Software Engineer, DevOps, Tech Lead.  
 
 ---
 
