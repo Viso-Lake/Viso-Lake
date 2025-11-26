@@ -27,8 +27,8 @@
 - **Безопасность:** `JWT`, `OAuth`, `API Security`
 
 ### 📱 Frontend & Mobile
-- **Frontend:** `Vue.js`, `Nuxt.js`
-- **Мобильная разработка:** `Dart/Flutter`
+- **Frontend:** `Vue.js`, `Nuxt.js`, `React`
+- **Мобильная разработка:** `Dart/Flutter - IOS/Android`
 
 ---
 
