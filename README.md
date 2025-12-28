@@ -1,44 +1,41 @@
-# 👋 Привет, я Фарзон (Fara)  
+# Hi, I'm Farzon (Fara)
 
-## 💻 Ведущий разработчик | DevOps | Tech Lead
+I'm a backend engineer working mostly with Go.
 
-🔹 **Опыт:** 7+ лет опыта в разработке backend-архитектур, микросервисных систем и DevOps.  
-🔹 **Технологический стек:** Golang, Python, PostgreSQL, Kafka, Docker, Kubernetes, Linux.  
-🔹 **Архитектура:** Микросервисы, API Gateway, CI/CD, Monitoring, Security.  
-🔹 **Роли:** Senior Software Engineer, DevOps, Tech Lead.  
+I have 6+ years in IT and spend most of my time building backend services, APIs, and infrastructure-aware systems that actually run in production.  
+I care about architecture, reliability, and keeping systems maintainable over time.
 
 ---
 
-## 🚀 Навыки и технологии
+## What I work with
 
-### 🛠 Backend
-- **Языки программирования:** `Golang`, `Python`
-- **Фреймворки:** `Chi`, `Gin`, `Fiber`, `Django`, `FastAPI`
-- **Базы данных:** `PostgreSQL`, `MySQL`, `MongoDB`, `Redis`
-- **Месседж-брокеры:** `Apache Kafka`, `RabbitMQ`, `Nats`
-- **API-решения:** `REST`, `gRPC`
-- **Тестирование и профилирование:** `Unit Testing`, `Benchmarking`, `Profiling`
+**Backend**
+- Go, Python
+- REST, gRPC
+- Microservices, API gateways
+- PostgreSQL, Redis, MongoDB
+- Kafka, RabbitMQ, NATS
 
-### ☁ DevOps & Infrastructure
-- **Контейнеризация и оркестрация:** `Docker`, `Kubernetes`
-- **CI/CD:** `GitLab CI`, `GitHub Actions`, `Jenkins`
-- **Мониторинг и логирование:** `Prometheus`, `Grafana`, `Loki`, `Jaeger`
-- **Web Servers & Reverse Proxy:** `NGINX`.
-- **Безопасность:** `JWT`, `OAuth`, `API Security`
-
-### 📱 Frontend & Mobile
-- **Frontend:** `Vue.js`, `Nuxt.js`, `React`
-- **Мобильная разработка:** `Dart/Flutter - IOS/Android`
+**Production & Infrastructure**
+- Docker, Kubernetes
+- CI/CD (GitLab CI, GitHub Actions)
+- Monitoring and logging (Prometheus, Grafana, Loki, Jaeger)
+- Linux, NGINX
+- Auth and security (JWT, OAuth2)
 
 ---
 
-## 🔍 Контакты и ссылки
-- 🔗 **GitHub:** [Viso-Lake](https://github.com/Viso-Lake)
-- 🌐 **Личный сайт:** [FaraSite](https://fara.rushcode.ru)
-- 💼 **LinkedIn:** [FaraLink](https://www.linkedin.com/in/devfara/)
-- 💼 **Head Hunter:** [Fara Head Hunter](https://hh.ru/applicant/resumes/view?resume=dd420821ff0c4e7d530039ed1f644e354b3733)
-- ✉ **Email:** felixkot00@gmail.com
+## What I usually do
+- Design backend architectures for products and internal systems
+- Build and maintain services that run in production
+- Integrate with external systems (payments, third-party APIs, internal platforms)
+- Set up monitoring, logging, and basic SRE practices
+- Debug production issues and improve system reliability
 
-> "Проблемы — это вызовы, которые мы решаем через архитектуру и код. Чем сложнее задача, тем выше уровень мастерства, необходимый для её решения."
+
+## Contacts
+- **WebSite:** [FaraSite](https://fara.kodolab.group)
+- **LinkedIn:** [FaraLink](https://www.linkedin.com/in/devfara/)
+
 
 ![Viso-Lake's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Viso-Lake&theme=radical&hide_border=false)
