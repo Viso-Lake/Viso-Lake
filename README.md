@@ -34,7 +34,6 @@ I care about architecture, reliability, and keeping systems maintainable over ti
 
 
 ## Contacts
-- **WebSite:** [FaraSite](https://fara.kodolab.group)
 - **LinkedIn:** [FaraLink](https://www.linkedin.com/in/devfara/)
 
 
