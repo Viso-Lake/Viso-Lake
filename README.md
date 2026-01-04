@@ -1,40 +1,44 @@
 # Hi, I'm Farzon (Fara)
 
-I'm a backend engineer working mostly with Go.
+Senior Backend Engineer working mainly with Go.
 
-I have 7+ years in IT and spend most of my time building backend services, APIs, and infrastructure-aware systems that actually run in production.  
-I care about architecture, reliability, and keeping systems maintainable over time.
+7+ years in IT, building and maintaining backend services, APIs, and
+production systems. Focused on reliability, clean architecture,
+and long-term maintainability.
 
 ---
 
-## What I work with
+## Stack
 
 **Backend**
 - Go, Python
 - REST, gRPC
-- Microservices, API gateways
+- Microservices
 - PostgreSQL, Redis, MongoDB
-- Kafka, RabbitMQ, NATS
+- Kafka, RabbitMQ
 
-**Production & Infrastructure**
+**Infrastructure & Production**
 - Docker, Kubernetes
 - CI/CD (GitLab CI, GitHub Actions)
-- Monitoring and logging (Prometheus, Grafana, Loki, Jaeger)
+- Monitoring & logging (Prometheus, Grafana, Loki, Jaeger & ELK)
 - Linux, NGINX
-- Auth and security (JWT, OAuth2)
+- Auth & security (JWT, OAuth2)
+- Cloud: AWS, GCP
+- S3 object storages
 
 ---
 
-## What I usually do
-- Design backend architectures for products and internal systems
-- Build and maintain services that run in production
-- Integrate with external systems (payments, third-party APIs, internal platforms)
-- Set up monitoring, logging, and basic SRE practices
-- Debug production issues and improve system reliability
+## What I do
+- Design backend architectures
+- Build and operate production services
+- Integrate external and internal systems
+- Debug production issues and improve reliability
 
+---
 
-## Contacts
-- **LinkedIn:** [FaraLink](https://www.linkedin.com/in/devfara/)
+## Contact
+- LinkedIn: https://www.linkedin.com/in/devfara/
 
+---
 
-![Viso-Lake's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Viso-Lake&theme=radical&hide_border=false)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Viso-Lake&theme=radical&hide_border=false)
