@@ -2,7 +2,7 @@
 
 I'm a backend engineer working mostly with Go.
 
-I have 6+ years in IT and spend most of my time building backend services, APIs, and infrastructure-aware systems that actually run in production.  
+I have 7+ years in IT and spend most of my time building backend services, APIs, and infrastructure-aware systems that actually run in production.  
 I care about architecture, reliability, and keeping systems maintainable over time.
 
 ---
