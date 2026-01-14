@@ -38,7 +38,4 @@ and long-term maintainability.
 
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/devfara/
-
----
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Viso-Lake&theme=radical&hide_border=false)
+- Telegram: https://t.me/dev_fara
