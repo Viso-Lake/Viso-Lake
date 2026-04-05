@@ -2,7 +2,7 @@
 
 Senior Backend Engineer working mainly with Go.
 
-7+ years in IT, building and maintaining backend services, APIs, and
+8+ years in IT, building and maintaining backend services, APIs, and
 production systems. Focused on reliability, clean architecture,
 and long-term maintainability.
 
@@ -11,16 +11,16 @@ and long-term maintainability.
 ## Stack
 
 **Backend**
-- Go, Python
+- Go
 - REST, gRPC
-- Microservices
+- Microservices. Distributed systems
 - PostgreSQL, Redis, MongoDB
 - Kafka, RabbitMQ
 
 **Infrastructure & Production**
 - Docker, Kubernetes
 - CI/CD (GitLab CI, GitHub Actions)
-- Monitoring & logging (Prometheus, Grafana, Loki, Jaeger & ELK)
+- Monitoring & logging (Open Telemetry, Prometheus, Grafana, Loki, Jaeger & ELK)
 - Linux, NGINX
 - Auth & security (JWT, OAuth2)
 - Cloud: AWS, GCP
