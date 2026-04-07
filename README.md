@@ -1,6 +1,4 @@
-# Hi, I'm Farzon (Fara)
-
-Senior Backend Engineer working mainly with Go.
+# Hi, I'm Fara — Senior Golang Engineer
 
 8+ years in IT, building and maintaining backend services, APIs, and
 production systems. Focused on reliability, clean architecture,
@@ -11,9 +9,9 @@ and long-term maintainability.
 ## Stack
 
 **Backend**
-- Go
+- Golang
 - REST, gRPC
-- Microservices. Distributed systems
+- Microservices, Distributed systems
 - PostgreSQL, Redis, MongoDB
 - Kafka, RabbitMQ
 
@@ -25,14 +23,6 @@ and long-term maintainability.
 - Auth & security (JWT, OAuth2)
 - Cloud: AWS, GCP
 - S3 object storages
-
----
-
-## What I do
-- Design backend architectures
-- Build and operate production services
-- Integrate external and internal systems
-- Debug production issues and improve reliability
 
 ---
 
