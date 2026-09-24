@@ -1,4 +1,4 @@
-# Hi, I'm Fara — Senior Golang Engineer
+# Hi, I'm Fara — Senior Software Engineer
 
 8+ years in IT, building and maintaining backend services, APIs, and
 production systems. Focused on reliability, clean architecture,
@@ -9,7 +9,7 @@ and long-term maintainability.
 ## Stack
 
 **Backend**
-- Golang
+- Golang, Python
 - REST, gRPC
 - Microservices, Distributed systems
 - PostgreSQL, Redis, MongoDB
